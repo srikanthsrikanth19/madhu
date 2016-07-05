@@ -1,0 +1,12 @@
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/api/UserService.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/api/TodoService.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/TodoItemList.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/Priority.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/impl/UserServiceImpl.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/api/TodoDataService.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/TodoItem.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/User.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/impl/TodoDataServiceImpl.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/impl/UserDataServiceImpl.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/impl/TodoServiceImpl.java
+/home/srikanth19/Desktop/task5/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/api/UserDataService.java
